@@ -1,0 +1,16 @@
+body{
+    background: url(/assets/photo_2026-09-26_13-16-12.jpg);
+    background-size: 50% 50%;
+    background-repeat: repeat;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+div{
+    background: white;
+    text-align: center;
+    padding: 0px 10px 0px 10px;
+    border: 1px solid red;
+}
